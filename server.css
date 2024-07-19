@@ -10,3 +10,9 @@
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;   
   }
+
+
+body {
+    text-color: white;
+    text-size: auto;
+}
