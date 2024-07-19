@@ -43,3 +43,16 @@ body {
     height: 150px;
 
 }
+
+.aboutus:active {
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: 755px;
+    top: -1px;
+    background-color: #013220;
+    width: 500px;
+    height: 150px;
+
+}
