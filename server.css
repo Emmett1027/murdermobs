@@ -58,7 +58,7 @@ body {
 }
 
 .howtoplay {
-    position: absoliute;
+    position: absolute;
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
