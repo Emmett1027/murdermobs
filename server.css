@@ -56,3 +56,11 @@ body {
     height: 150px;
 
 }
+
+.howtoplay {
+    position: absoliute;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: 575px
+}
