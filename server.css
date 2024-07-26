@@ -24,7 +24,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     right: 1075px;
     top: -1px;
-    background-image: url("UpdatedIDLE.png");
+    background-image: url("FixedIDLE.png");
     width: 500px;
     height: 150px;
 
@@ -38,7 +38,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     right: 1075px;
     top: -1px;
-    background-image: url("UpdatedCLICK.png");
+    background-image: url("FixedCLICK.png");
     width: 500px;
     height: 150px;
 
