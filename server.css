@@ -22,10 +22,10 @@ body {
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: 1075px;
+    right: 1175px;
     top: -1px;
     background-image: url("FixedIDLE.png");
-    width: 500px;
+    width: 400px;
     height: 150px;
 
 }
@@ -36,10 +36,10 @@ body {
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: 1075px;
+    right: 1175px;
     top: -1px;
     background-image: url("FixedCLICK.png");
-    width: 500px;
+    width: 400px;
     height: 150px;
 
 }
@@ -49,10 +49,10 @@ body {
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: 1075px;
+    right: 1175px;
     top: -1px;
     background-image: url("UpdatedIDLE.png");
-    width: 500px;
+    width: 400px;
     height: 150px;
 
 }
@@ -62,8 +62,8 @@ body {
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: 575px;
+    right: 675px;
     top: -1px;
-    width: 500px;
+    width: 400px;
     height: 150px;
 }
