@@ -79,3 +79,36 @@ body {
     width: 400px;
     height: 150px;
 }
+
+.features {
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: 375px;
+    top: -1px;
+    width: 400px;
+    height: 150px;
+}
+
+.rules {
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: -175px;
+    top: -1px;
+    width: 400px;
+    height: 150px;
+}
+
+.otherinfo {
+    position: absolute;
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    right: -557px;
+    top: -1px;
+    width: 400px;
+    height: 150px;
+}
