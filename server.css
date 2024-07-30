@@ -30,6 +30,18 @@ body {
 
 }
 
+.mcbutton {
+    background-image: url("FixedIDLE.png");
+}  
+
+.mcbutton:hover {
+    background-image: url("FixedCLICK.png");
+}
+
+.mcbutton:active {
+    background-image: url("CLICKED (2).png");
+}
+
 
 .aboutus:hover {
     position: absolute;
