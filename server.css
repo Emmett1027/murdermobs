@@ -30,15 +30,15 @@ body {
 
 }
 
-.mcbutton {
+#mcbutton {
     background-image: url("FixedIDLE.png");
 }  
 
-.mcbutton:hover {
+#mcbutton:hover {
     background-image: url("FixedCLICK.png");
 }
 
-.mcbutton:active {
+#mcbutton:active {
     background-image: url("UpdatedCLICKED.png");
 }
 
