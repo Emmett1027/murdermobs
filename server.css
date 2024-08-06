@@ -32,14 +32,20 @@ body {
 
 #mcbutton {
     background-image: url("FixedIDLE.png");
+    border-width: 3px;
+    border-color: red;
 }  
 
 #mcbutton:hover {
     background-image: url("FixedCLICK.png");
+    border-width: 3px;
+    border-color: red;
 }
 
 #mcbutton:active {
     background-image: url("UpdatedCLICKED.png");
+    border-width: 3px;
+    border-color: red;
 }
 
 
