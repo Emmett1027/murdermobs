@@ -102,18 +102,7 @@ body {
     text-align: center;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: -175px;
-    top: -1px;
-    width: 400px;
-    height: 150px;
-}
-
-.otherinfo {
-    position: absolute;
-    text-align: center;
-    font-size: large;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    right: -575px;
+    right: -25px;
     top: -1px;
     width: 400px;
     height: 150px;
