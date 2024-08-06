@@ -107,3 +107,19 @@ body {
     width: 400px;
     height: 150px;
 }
+
+.rulesbackground {
+    position: absolute;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-image: url("actualrulesbackgroundfinaled.png")
+}
+
+.red {
+    text-decoration-color: red;
+}
+
+.green {
+    text-decoration-color: #73AD21;
+}
